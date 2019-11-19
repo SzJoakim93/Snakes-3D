@@ -1,0 +1,12 @@
+# Blender v242 OBJ File: pane.blend
+# www.blender3d.org
+mtllib pane.mtl
+o Plane_Plane
+v -0.948971 -1.099600 0.920131
+v -0.969117 0.900233 0.936166
+v 1.030453 0.920085 0.972525
+v 1.050599 -1.079748 0.956490
+usemtl (null)
+usemtl (null)
+s off
+f 1 4 3 2

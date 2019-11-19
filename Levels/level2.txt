@@ -1,0 +1,50 @@
+siavtag Music/level2.mid Textures/sand.bmp Textures/wall4.bmp 20 15 1.0 1.0 0.8 
+Textures/sand.bmp
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 -1 -1 0 0 0 -1 0 0 0 
+0 -1 -1 0 0 0 0 0 0 0 
+0 0 0 0 0 0 -1 0 0 0 
+0 0 -1 -1 -1 0 -1 0 0 0 
+0 0 -1 -1 -1 0 -1 0 0 0 
+0 0 0 0 0 0 -1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+rise0 Textures/sand.bmp 2 -0.3125 1 4.44 4.44 0.75
+rise0 Textures/sand.bmp 2 -0.45 6 2.22 2.22 0.2
+rise0 Textures/sand.bmp 5 -0.75 2 4.44 6.66 -1
+rise0 Textures/sand.bmp 4 -0.375 6 8.88 2.22 0.5
+*
+negyzet Textures/cactus1.bmp 2.3 -0.5 -4.921875 0 90 -90 0.4 0 0.2 1 0 1
+ne Textures/cactus1.bmp 1.05 -0.02 6.796875 90 180 90 0.4 0 0.2 1 0 1
+ne Textures/cactus1.bmp -6 -0.02 4 90 180 90 0.4 0 0.2 1 0 1
+Objects/piramis.obj Textures/piramis.bmp -3 -0.2 -2 90 180 0 0.5 0.6 0.5 0 0 0
+negyzet Textures/cactus2.bmp -8 -0.02 -7 0 90 -90 0.4 0 0.2 1 0 1
+Objects/stone.obj Textures/piramis.bmp 4 -0.2 -7 90 180 180 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp -7 -0.2 7 90 180 180 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp -8 -0.2 0 90 180 0 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp -6 -0.2 -4 90 180 180 0.2 0.2 0.2 0 0 0
+Objects/stone.obj Textures/piramis.bmp -1 -0.125 3 90 180 90 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp 4 -0.4 -1 90 180 270 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp -4 -0.2 -9 90 180 0 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp 4.090625 -0.2 6.66875 90 180 0 0.1 0.1 0.1 0 0 0
+Objects/stone.obj Textures/piramis.bmp 4.534375 -0.2 1.878125 90 180 270 0.15 0.15 0.15 0 0 0
+Objects/stone.obj Textures/piramis.bmp -3 -0.2 6 90 180 270 0.1 0.1 0.1 0 0 0
+negyzet Textures/cactus2.bmp -4 0.35 -6 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus1.bmp -4 -0.02 1 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus3.bmp -7 -0.02 -9 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus3.bmp 2 -0.02 -9 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus2.bmp 2 0.175 4 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus3.bmp 1.3625 -0.02 2.265625 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus2.bmp 3.471875 -0.45 -2.734375 0 90 -90 0.4 0 0.2 1 0 1
+negyzet Textures/cactus2.bmp -1 -0.02 -9 0 90 -90 0.4 0 0.2 1 0 1
+*

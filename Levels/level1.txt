@@ -1,0 +1,57 @@
+kert Music/level1.mid Textures/grass.bmp Textures/wall1.bmp 20 20 0.0 0.5 1.0 
+Textures/grass.bmp
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+NULL
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 -1 0 -1 -1 -1 0 0 0 
+0 0 0 0 -1 -1 -1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 -1 0 0 -1 -1 0 0 0 
+0 0 -1 0 0 -1 -1 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+rise0 Textures/grass.bmp 2 -0.425 2 2.22 2.22 0.3
+rise0 Textures/grass.bmp 5 -0.375 5 4.44 4.44 0.5
+rise0 Textures/grass.bmp 5 -0.4 2 4.44 2.22 0.4
+rise0 Textures/grass.bmp 2 -0.375 4 4.44 6.66 0.5
+*
+Objects/stone.obj Textures/stone.bmp -6 -0.2 5 90 180 0 0.2 0.2 0.2 0 0 0
+negyzet Textures/tree.bmp 7 0.105 -6 0 90 270 0.65 0.1 0.6 1 0 1
+negyzet Textures/fence.bmp 4 0.08 -10 0 0 270 0.6 0.05 2.0 0 3 0
+negyzet Textures/fence.bmp 8 0.105 -8 0 90 270 0.6 0.05 3.0 0 3 0
+Objects/stone.obj Textures/stone.bmp 3 -0.2 5 90 180 180 0.2 0.2 0.2 0 0 0
+Objects/stone.obj Textures/stone.bmp 2 -0.2 -3 90 180 270 0.2 0.2 0.2 0 0 0
+negyzet Textures/tree3.bmp -5 0.355 2 0 90 270 0.65 0.1 0.6 1 0 1
+negyzet Textures/tree3.bmp 6 0.105 2 0 90 270 0.65 0.1 0.6 1 0 1
+Objects/stone.obj Textures/stone.bmp 0 -0.2 -7 90 180 90 0.2 0.2 0.2 0 0 0
+Objects/stone.obj Textures/stone.bmp 8 -0.2 -4 90 180 0 0.2 0.2 0.2 0 0 0
+negyzet Textures/fence.bmp 0 0.08 7 0 0 270 0.6 0.05 4.0 0 3 0
+negyzet Textures/tree11.bmp -4 0.105 -5 0 90 270 0.65 0.1 0.6 1 0 1
+Objects/stone.obj Textures/stone.bmp 8 -0.2 6 90 180 90 0.2 0.2 0.2 0 0 0
+Objects/stone.obj Textures/stone.bmp -8 -0.2 -2 90 180 90 0.2 0.2 0.2 0 0 0
+negyzet Textures/fence.bmp -8 0.08 0 0 90 270 0.6 0.05 2.0 0 3 0
+negyzet Textures/tree4.bmp 6 0.105 5 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree7.bmp -1 0.105 -4 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree8.bmp 3 0.105 -7 0 90 270 0.65 0.5 0.6 1 0 1
+Objects/stone.obj Textures/stone.bmp -2 -0.2 -10 90 180 180 0.2 0.2 0.2 0 0 0
+Objects/stone.obj Textures/stone.bmp 0 -0.2 3 90 180 0 0.2 0.2 0.2 0 0 0
+negyzet Textures/tree14.bmp 3 0.105 -1 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree7.bmp -6 0.14 -2 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree4.bmp -3 0.105 7 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/fence.bmp 9 0.08 0 0 90 270 0.6 0.05 2.0 0 3 0
+negyzet Textures/fence.bmp -6 0.08 -9 0 180 270 0.6 0.05 4.0 0 3 0
+negyzet Textures/tree8.bmp -2 0.105 -1 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree8.bmp -8 0.105 -9 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree.bmp 9 0.105 -10 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree.bmp -7 0.105 -5 0 90 270 0.65 0.5 0.6 1 0 1
+negyzet Textures/tree11.bmp -8 0.105 4 0 90 270 0.65 0.5 0.6 1 0 1
+*

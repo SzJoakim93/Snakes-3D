@@ -1,0 +1,21 @@
+# Blender v242 OBJ File: piramis.blend
+# www.blender3d.org
+mtllib piramis.mtl
+o Cone_Cone
+v 0.707107 0.707107 -0.000061
+v 0.707107 -0.707107 -0.000061
+v -0.707107 -0.707107 -0.000061
+v -0.707107 0.707107 -0.000061
+v 0.000000 0.000000 1.114566
+v 0.000000 0.000000 -0.000061
+usemtl (null)
+usemtl (null)
+s off
+f 2 1 5
+f 5 3 2
+f 5 4 3
+f 5 1 4
+f 6 1 2
+f 6 2 3
+f 6 3 4
+f 4 1 6

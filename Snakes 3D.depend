@@ -1,0 +1,757 @@
+# depslib dependency file v1.0
+1415032163 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\main.cpp
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Alkalmazas.h"
+	"Elem.h"
+	"Elem_tarolo.h"
+	<ctime>
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 c:\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 c:\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1415083794 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\alkalmazas.cpp
+	"Alkalmazas.h"
+
+1414436888 c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\alkalmazas.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Jatek.h"
+	"Menu.h"
+
+1414494580 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\elem.cpp
+	"Elem.h"
+
+1414494569 c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\elem.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cmath>
+
+1415032847 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\elem_tarolo.cpp
+	"Elem_tarolo.h"
+
+1415032799 c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\elem_tarolo.h
+	"Elem.h"
+
+1415083727 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\jatek.cpp
+	"Jatek.h"
+
+1415083753 c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\jatek.h
+	"Elem.h"
+	"Elem_tarolo.h"
+	"Hang.h"
+	<cstdio>
+
+1414221547 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\menu.cpp
+	"Menu.h"
+
+1414438276 c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\menu.h
+	"Elem_tarolo.h"
+
+1325789340 c:\sdl-1.2.15\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\sdl-1.2.15\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1415032400 source:c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\hang.cpp
+	"Hang.h"
+
+1415030482 c:\documents and settings\windu\dokumentumok\c++ project\snakes 3d\hang.h
+	"SDL/SDL_mixer.h"
+
+1421778403 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\elem.cpp
+	"Elem.h"
+
+1421741197 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\elem.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1421589082 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\elem_tarolo.cpp
+	"Elem_tarolo.h"
+
+1421589099 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\elem_tarolo.h
+	"Elem.h"
+
+1418831231 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\hang.cpp
+	"Hang.h"
+
+1415030482 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\hang.h
+	"SDL/SDL_mixer.h"
+
+1421953857 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\jatek.cpp
+	"Jatek.h"
+
+1421954147 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\jatek.h
+	"Elem.h"
+	"Elem_tarolo.h"
+	"Hang.h"
+	<cstdio>
+	<cstring>
+
+1421698664 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\menu.cpp
+	"Menu.h"
+
+1420909050 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\menu.h
+	"Elem_tarolo.h"
+	"Jatek.h"
+
+1422205707 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\alkalmazas.cpp
+	"Alkalmazas.h"
+
+1419791367 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\alkalmazas.h
+	<cstdio>
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Jatek.h"
+	"Menu.h"
+
+1421698741 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\main.cpp
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Alkalmazas.h"
+	"Elem.h"
+	"Elem_tarolo.h"
+	<ctime>
+	<cstdio>
+
+1418894164 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\io.c
+
+1418930137 source:c:\documents and settings\windu\dokumentumok\c project\snakes 3d\io.cpp
+	"IO.h"
+
+1418930076 c:\documents and settings\windu\dokumentumok\c project\snakes 3d\io.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cmath>
+
+1441117693 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\elem.cpp
+	"Elem.h"
+
+1441100919 f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\elem.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 f:\sdl-1.2.15\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_platform.h
+
+1326114594 f:\sdl-1.2.15\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 f:\sdl-1.2.15\include\sdl\begin_code.h
+
+1325742240 f:\sdl-1.2.15\include\sdl\close_code.h
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_keysym.h
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1441558645 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\elem_tarolo.cpp
+	"Elem_tarolo.h"
+
+1441558697 f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\elem_tarolo.h
+	"Elem.h"
+
+1418834832 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\hang.cpp
+	"Hang.h"
+
+1415034084 f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\hang.h
+	"SDL/SDL_mixer.h"
+
+1441558583 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\jatek.cpp
+	"Jatek.h"
+
+1441093900 f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\jatek.h
+	"Elem.h"
+	"Elem_tarolo.h"
+	"Hang.h"
+	<cstdio>
+	<cstring>
+
+1440082724 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\menu.cpp
+	"Menu.h"
+
+1420912652 f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\menu.h
+	"Elem_tarolo.h"
+	"Jatek.h"
+
+1440257486 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\main.cpp
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Alkalmazas.h"
+	"Elem.h"
+	"Elem_tarolo.h"
+	<ctime>
+	<cstdio>
+
+1440257318 f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\alkalmazas.h
+	<cstdio>
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Jatek.h"
+	"Menu.h"
+
+1441460689 source:f:\documents and settings\admin\dokumentumok\c projects\snakes 3d\alkalmazas.cpp
+	"Alkalmazas.h"
+
+1325789340 f:\sdl-1.2.15\include\sdl\sdl_mixer.h
+	"SDL_types.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 f:\sdl-1.2.15\include\sdl\sdl_types.h
+	"SDL_stdinc.h"
+
+1475225008 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\elem.cpp
+	"Elem.h"
+
+1441097318 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\elem.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1489853406 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\elem_tarolo.cpp
+	"Elem_tarolo.h"
+
+1489856975 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\elem_tarolo.h
+	"Object.h"
+
+1418834832 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\hang.cpp
+	"Hang.h"
+
+1415034084 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\hang.h
+	"SDL/SDL_mixer.h"
+
+1489934017 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\menu.cpp
+	"Menu.h"
+
+1489930430 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\menu.h
+	"vector"
+	"Jatek.h"
+
+1490450702 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\jatek.h
+	"Object.h"
+	"Elem_tarolo.h"
+	"Hang.h"
+	"vector.h"
+	<cstdio>
+	<cstring>
+
+1489933622 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\main.cpp
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Alkalmazas.h"
+	"Object.h"
+	"Elem_tarolo.h"
+	<ctime>
+	<cstdio>
+
+1489932371 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\alkalmazas.h
+	<cstdio>
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Jatek.h"
+	"Menu.h"
+
+1490450624 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\alkalmazas.cpp
+	"Alkalmazas.h"
+
+1490639588 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\jatek.cpp
+	"Jatek.h"
+
+1326638180 c:\freeglut\include\gl\freeglut.h
+	"freeglut_std.h"
+	"freeglut_ext.h"
+
+1326638396 c:\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1326638168 c:\freeglut\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1326638152 c:\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1490438396 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\object.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1469018546 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\list.h
+
+1469018537 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\char_list.h
+	<cstring>
+
+1490542744 source:c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\object.cpp
+	"Object.h"
+
+1479146464 c:\documents and settings\windu\dokumentumok\c projects\snakes 3d\vector.h
+
+1517774554 source:c:\users\alonso\documents\codeblocks projects\snakes 3d\alkalmazas.cpp
+	"Alkalmazas.h"
+
+1489932371 c:\users\alonso\documents\codeblocks projects\snakes 3d\alkalmazas.h
+	<cstdio>
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Jatek.h"
+	"Menu.h"
+
+1499268743 c:\users\alonso\documents\codeblocks projects\snakes 3d\jatek.h
+	"Object.h"
+	"Elem_tarolo.h"
+	"Hang.h"
+	"vector.h"
+	<cstdio>
+	<cstring>
+
+1517768832 c:\users\alonso\documents\codeblocks projects\snakes 3d\object.h
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+
+1489856975 c:\users\alonso\documents\codeblocks projects\snakes 3d\elem_tarolo.h
+	"Object.h"
+
+1415034084 c:\users\alonso\documents\codeblocks projects\snakes 3d\hang.h
+	"SDL/SDL_mixer.h"
+
+1479146464 c:\users\alonso\documents\codeblocks projects\snakes 3d\vector.h
+
+1489930430 c:\users\alonso\documents\codeblocks projects\snakes 3d\menu.h
+	"vector"
+	"Jatek.h"
+
+1418834832 source:c:\users\alonso\documents\codeblocks projects\snakes 3d\hang.cpp
+	"Hang.h"
+
+1489933622 source:c:\users\alonso\documents\codeblocks projects\snakes 3d\main.cpp
+	"GL/gl.h"
+	"SDL/SDL.h"
+	"gl/glu.h"
+	"Alkalmazas.h"
+	"Object.h"
+	"Elem_tarolo.h"
+	<ctime>
+	<cstdio>
+
+1489934017 source:c:\users\alonso\documents\codeblocks projects\snakes 3d\menu.cpp
+	"Menu.h"
+
+1517765230 source:c:\users\alonso\documents\codeblocks projects\snakes 3d\object.cpp
+	"Object.h"
+
+1517774426 source:c:\users\alonso\documents\codeblocks projects\snakes 3d\jatek.cpp
+	"Jatek.h"
+
